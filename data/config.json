@@ -5,7 +5,7 @@
     { "id": "niki", "name": "Niki", "color": "#2e7d32" }
   ],
   "categories": [
-    { "id": "school", "name": "School (Niki)", "color": "#2e7d32" },
+    { "id": "school", "name": "School (Niki)", "color": "#6d4c41" },
     { "id": "family", "name": "Family events", "color": "#ef6c00" },
     { "id": "location", "name": "Who is where", "color": "#90a4ae" },
     { "id": "work", "name": "Work away/busy", "color": "#c62828" }
