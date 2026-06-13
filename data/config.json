@@ -2,10 +2,10 @@
   "people": [
     { "id": "igor", "name": "Igor", "color": "#1565c0" },
     { "id": "natasa", "name": "Nataša", "color": "#8e24aa" },
-    { "id": "niki", "name": "Niki", "color": "#2e7d32" }
+    { "id": "niki", "name": "Niki", "color": "#e57373" }
   ],
   "categories": [
-    { "id": "school", "name": "School (Niki)", "color": "#6d4c41" },
+    { "id": "school", "name": "School (Niki)", "color": "#2e7d32" },
     { "id": "family", "name": "Family events", "color": "#ef6c00" },
     { "id": "location", "name": "Who is where", "color": "#90a4ae" },
     { "id": "work", "name": "Work away/busy", "color": "#c62828" }
