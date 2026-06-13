@@ -1,0 +1,7 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Python http.server cache (none, but just in case)
+__pycache__/

@@ -1,0 +1,33 @@
+{
+  "_comment": "Family Calendar data. Multi-day all-day events: 'end' is EXCLUSIVE (the day AFTER the last day). category must match an id in config.json categories. person must match an id in config.json people (or be omitted).",
+  "events": [
+    { "id": "sch-2026-08-24", "title": "First Day of School (Sem 1 begins)", "category": "school", "person": "niki", "start": "2026-08-24", "allDay": true },
+    { "id": "sch-2026-09-05", "title": "Grade 11 Unity Trip", "category": "school", "person": "niki", "start": "2026-09-05", "end": "2026-09-13", "allDay": true, "note": "3.5-day trip per homeroom" },
+    { "id": "sch-2026-09-15", "title": "Half-Day — early dismissal (noon)", "category": "school", "person": "niki", "start": "2026-09-15", "allDay": true, "note": "Teacher Professional Learning" },
+    { "id": "sch-2026-09-21", "title": "After School Activities begin", "category": "school", "person": "niki", "start": "2026-09-21", "allDay": true },
+    { "id": "sch-2026-10-12", "title": "October Break — No School", "category": "school", "person": "niki", "start": "2026-10-12", "end": "2026-10-16", "allDay": true },
+    { "id": "sch-2026-10-29", "title": "Fall Student Conferences — No School", "category": "school", "person": "niki", "start": "2026-10-29", "allDay": true },
+    { "id": "sch-2026-10-30", "title": "Half-Day — early dismissal (noon)", "category": "school", "person": "niki", "start": "2026-10-30", "allDay": true },
+    { "id": "sch-2026-11-18", "title": "Remembrance Day — No School", "category": "school", "person": "niki", "start": "2026-11-18", "allDay": true },
+    { "id": "sch-2026-11-26", "title": "Thanksgiving Weekend — No School", "category": "school", "person": "niki", "start": "2026-11-26", "end": "2026-11-27", "allDay": true },
+    { "id": "sch-2026-12-18", "title": "Half-Day — early dismissal (noon)", "category": "school", "person": "niki", "start": "2026-12-18", "allDay": true, "note": "Teacher Professional Learning" },
+    { "id": "sch-2026-12-21", "title": "Winter Break — No School", "category": "school", "person": "niki", "start": "2026-12-21", "end": "2027-01-08", "allDay": true },
+    { "id": "sch-2027-01-22", "title": "Half-Day — Semester 1 ends", "category": "school", "person": "niki", "start": "2027-01-22", "allDay": true, "note": "Teacher Professional Learning, early dismissal" },
+    { "id": "sch-2027-01-25", "title": "Semester 2 begins", "category": "school", "person": "niki", "start": "2027-01-25", "allDay": true },
+    { "id": "sch-2027-02-15", "title": "February Break — No School", "category": "school", "person": "niki", "start": "2027-02-15", "end": "2027-02-19", "allDay": true },
+    { "id": "sch-2027-03-17", "title": "Spring Student Conferences — No School", "category": "school", "person": "niki", "start": "2027-03-17", "allDay": true },
+    { "id": "sch-2027-03-26", "title": "Half-Day — early dismissal (noon)", "category": "school", "person": "niki", "start": "2027-03-26", "allDay": true, "note": "Teacher Professional Learning" },
+    { "id": "sch-2027-03-29", "title": "Spring Break — No School", "category": "school", "person": "niki", "start": "2027-03-29", "end": "2027-04-02", "allDay": true },
+    { "id": "sch-2027-04-20", "title": "Half-Day — early dismissal (noon)", "category": "school", "person": "niki", "start": "2027-04-20", "allDay": true, "note": "Teacher Professional Learning" },
+    { "id": "sch-2027-05-11", "title": "Half-Day — early dismissal (noon)", "category": "school", "person": "niki", "start": "2027-05-11", "allDay": true, "note": "Teacher Professional Learning" },
+    { "id": "sch-2027-05-27", "title": "Corpus Christi", "category": "school", "person": "niki", "start": "2027-05-27", "allDay": true },
+    { "id": "sch-2027-05-28", "title": "Long Weekend — No School", "category": "school", "person": "niki", "start": "2027-05-28", "allDay": true },
+    { "id": "sch-2027-05-30", "title": "Statehood Day", "category": "school", "person": "niki", "start": "2027-05-30", "allDay": true },
+    { "id": "sch-2027-06-16", "title": "Last Day of School (Sem 2 ends)", "category": "school", "person": "niki", "start": "2027-06-16", "allDay": true, "note": "Early dismissal (noon)" },
+    { "id": "sch-2027-06-17", "title": "Faculty Work Day (no students)", "category": "school", "person": "niki", "start": "2027-06-17", "allDay": true },
+
+    { "id": "sample-loc-1", "title": "Igor in Croatia", "category": "location", "person": "igor", "start": "2026-09-07", "end": "2026-09-11", "allDay": true, "location": "HR" },
+    { "id": "sample-fam-1", "title": "Family trip to Zagreb", "category": "family", "start": "2026-08-22", "end": "2026-08-24", "allDay": true },
+    { "id": "sample-work-1", "title": "Nataša — work travel", "category": "work", "person": "natasa", "start": "2026-09-16", "allDay": true }
+  ]
+}

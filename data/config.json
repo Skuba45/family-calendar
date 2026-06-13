@@ -1,0 +1,29 @@
+{
+  "people": [
+    { "id": "igor", "name": "Igor", "color": "#1565c0" },
+    { "id": "natasa", "name": "Nataša", "color": "#8e24aa" },
+    { "id": "niki", "name": "Niki", "color": "#2e7d32" }
+  ],
+  "categories": [
+    { "id": "school", "name": "School (Niki)", "color": "#2e7d32" },
+    { "id": "family", "name": "Family events", "color": "#ef6c00" },
+    { "id": "location", "name": "Who is where", "color": "#90a4ae" },
+    { "id": "work", "name": "Work away/busy", "color": "#c62828" }
+  ],
+  "holidays": {
+    "germany": {
+      "countryCode": "DE",
+      "subdivision": "DE-BY",
+      "name": "Germany (Bayern)",
+      "color": "#5c6bc0",
+      "extraHolidays": [
+        { "month": 8, "day": 15, "localName": "Mariä Himmelfahrt", "name": "Assumption Day (Bavaria, Catholic municipalities)" }
+      ]
+    },
+    "croatia": { "countryCode": "HR", "name": "Croatia", "color": "#00897b" }
+  },
+  "locations": {
+    "DE": { "label": "Germany", "color": "#bbdefb" },
+    "HR": { "label": "Croatia", "color": "#ffe0b2" }
+  }
+}
