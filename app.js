@@ -436,29 +436,6 @@ function setupForm(config) {
       updateStatusCount();
     }
   });
-
-  setupExport();
-}
-
-/* ---------- Export (share across devices) ---------- */
-function setupExport() {
-  $("#export-btn").addEventListener("click", () => {
-    const data = { events: getRawEvents() };
-    $("#export-json").value = JSON.stringify(data, null, 2);
-    $("#export-output").hidden = false;
-  });
-
-  $("#copy-export-btn").addEventListener("click", async () => {
-    const ta = $("#export-json");
-    try {
-      await navigator.clipboard.writeText(ta.value);
-      $("#copy-export-btn").textContent = "Copied!";
-      setTimeout(() => ($("#copy-export-btn").textContent = "Copy to clipboard"), 1500);
-    } catch {
-      ta.select();
-      document.execCommand("copy");
-    }
-  });
 }
 
 function updateStatusCount() {
