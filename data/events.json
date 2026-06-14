@@ -31,6 +31,7 @@
     { "id": "sch-2026-07-20-vus", "title": "Vorzeitiger Unterrichtsschluss (13:30 Uhr)", "category": "school", "person": "niki", "start": "2026-07-20", "allDay": true },
     { "id": "sch-2026-07-21-vus", "title": "Vorzeitiger Unterrichtsschluss (13:30 Uhr)", "category": "school", "person": "niki", "start": "2026-07-21", "allDay": true },
     { "id": "sch-2026-07-22-vus", "title": "Vorzeitiger Unterrichtsschluss (11:45 Uhr)", "category": "school", "person": "niki", "start": "2026-07-22", "allDay": true },
+    { "id": "sch-2026-07-16-sommerfest", "title": "Sommerfest", "category": "school", "person": "niki", "start": "2026-07-16", "allDay": true },
     { "id": "sch-2026-07-23-vus", "title": "Vorzeitiger Unterrichtsschluss (11:45 Uhr)", "category": "school", "person": "niki", "start": "2026-07-23", "allDay": true },
     { "id": "trip-verona-2026", "title": "Reise nach Verona", "category": "school", "person": "niki", "start": "2026-07-24", "end": "2026-07-29", "allDay": true },
 
