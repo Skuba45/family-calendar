@@ -26,6 +26,14 @@
     { "id": "sch-2027-06-16", "title": "Last Day of School (Sem 2 ends)", "category": "school", "start": "2027-06-16", "allDay": true, "note": "Early dismissal (noon)" },
     { "id": "sch-2027-06-17", "title": "Faculty Work Day (no students)", "category": "school", "start": "2027-06-17", "allDay": true },
 
+    { "id": "sch-2026-06-22-vus", "title": "Vorzeitiger Unterrichtsschluss (15:15 Uhr)", "category": "school", "start": "2026-06-22", "allDay": true },
+    { "id": "sch-2026-06-26-vus", "title": "Vorzeitiger Unterrichtsschluss (11:45 Uhr)", "category": "school", "start": "2026-06-26", "allDay": true },
+    { "id": "sch-2026-07-20-vus", "title": "Vorzeitiger Unterrichtsschluss (13:30 Uhr)", "category": "school", "start": "2026-07-20", "allDay": true },
+    { "id": "sch-2026-07-21-vus", "title": "Vorzeitiger Unterrichtsschluss (13:30 Uhr)", "category": "school", "start": "2026-07-21", "allDay": true },
+    { "id": "sch-2026-07-22-vus", "title": "Vorzeitiger Unterrichtsschluss (11:45 Uhr)", "category": "school", "start": "2026-07-22", "allDay": true },
+    { "id": "sch-2026-07-23-vus", "title": "Vorzeitiger Unterrichtsschluss (11:45 Uhr)", "category": "school", "start": "2026-07-23", "allDay": true },
+    { "id": "trip-verona-2026", "title": "Reise nach Verona", "category": "school", "start": "2026-07-24", "end": "2026-07-29", "allDay": true },
+
     { "id": "sample-loc-1", "title": "Igor in Croatia", "category": "location", "person": "igor", "start": "2026-09-07", "end": "2026-09-11", "allDay": true, "location": "HR" },
     { "id": "sample-fam-1", "title": "Family trip to Zagreb", "category": "family", "start": "2026-08-22", "end": "2026-08-24", "allDay": true },
     { "id": "sample-work-1", "title": "Nataša — work travel", "category": "work", "person": "natasa", "start": "2026-09-16", "allDay": true }
