@@ -35,7 +35,7 @@
     { "id": "trip-verona-2026", "title": "Reise nach Verona", "category": "school", "person": "niki", "start": "2026-07-24", "end": "2026-07-29", "allDay": true },
 
     { "id": "sample-loc-1", "title": "Igor in Croatia", "category": "location", "person": "igor", "start": "2026-09-07", "end": "2026-09-11", "allDay": true, "location": "HR" },
-    { "id": "sample-fam-1", "title": "Family trip to Zagreb", "category": "family", "start": "2026-08-22", "end": "2026-08-24", "allDay": true },
+    { "id": "sample-fam-1", "title": "Family trip to Zagreb", "category": "location", "start": "2026-08-22", "end": "2026-08-24", "allDay": true },
     { "id": "sample-work-1", "title": "Nataša — work travel", "category": "work", "person": "natasa", "start": "2026-09-16", "allDay": true }
   ]
 }
